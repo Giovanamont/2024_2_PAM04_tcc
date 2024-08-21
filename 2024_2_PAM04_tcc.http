@@ -1,0 +1,6 @@
+@_2024_2_PAM04_tcc_HostAddress = http://localhost:5294
+
+GET {{_2024_2_PAM04_tcc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
